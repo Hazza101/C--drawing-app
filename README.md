@@ -1,4 +1,36 @@
-# Application Instructions
+# C# Drawing application
+
+This was a final year university project in the computer graphics module. It is a windows app that allows you to draw simple shapes and transform them.
+
+## Features
+
+- Draw shapes
+  - cirlces, squares, triangles, polygons, ellipses and rectangles
+- Select drawn shapes
+  - delete the selected shapes
+  - transform the selected shapes
+      - rotate, translate, reflect and scale
+- use keyboard shortcuts to switch between modes
+
+## How to install
+
+1. **Clone the project**
+  
+  ```bash
+  git clone https://github.com/Hazza101/C--drawing-app.git
+  ```
+2. **Build and run**
+   
+  ```bash
+  cd repo
+  dotnet build
+  dotnet run
+  ```
+   
+
+
+## Usage
+
 
 Find 'how to use' application in grafpack document.
 
